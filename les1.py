@@ -11,3 +11,4 @@ def sumOddIndex(list):
     print(f"Сумма равна: {sum}")
 
 sumOddIndex(list)
+
